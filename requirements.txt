@@ -1,0 +1,8 @@
+PyPDF2
+langchain
+langchain-groq
+langchain-core
+langchain-community
+spacy
+faiss-cpu  # or faiss-gpu if you're using GPU
+python-dotenv
